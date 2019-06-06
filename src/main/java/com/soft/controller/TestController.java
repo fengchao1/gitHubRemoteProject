@@ -8,6 +8,5 @@ public class TestController {
 		System.err.println("123");
 		System.err.println("456");
 		System.err.println("987");
-		System.err.println("789");
 	}
 }
