@@ -5,7 +5,7 @@ public class TestController {
 		System.out.println("789111111");
 		System.err.println("4561");
 		System.err.println("456");
-		System.err.println("456");
 		System.err.println("123");
+		System.err.println("456");
 	}
 }
