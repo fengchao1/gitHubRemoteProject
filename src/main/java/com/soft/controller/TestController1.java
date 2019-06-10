@@ -5,6 +5,5 @@ public class TestController1 {
 		System.err.println("123");
 	}
 	public void helloworld(){
-		System.err.println("123");
 	}
 }
