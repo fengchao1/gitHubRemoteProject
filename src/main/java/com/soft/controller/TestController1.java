@@ -10,5 +10,6 @@ public class TestController1 {
 	public void helloworld(){
         System.err.println("i'm hellokitty"+"0");
 		System.err.println("i'm hellokitty"+"1");
+		System.err.println("i'm hellokitty"+"2");
 	}
 }
