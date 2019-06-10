@@ -5,5 +5,6 @@ public class TestController1 {
 		System.out.println(123);
 	}
 	public void helloworld(){
+		System.out.println(123);
 	}
 }
