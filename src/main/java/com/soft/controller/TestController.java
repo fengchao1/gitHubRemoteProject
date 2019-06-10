@@ -6,6 +6,6 @@ public class TestController {
 	}
 	public void helloworld(){
 		System.out.println(123);
-		System.out.println(456);
+		System.out.println(123);
 	}
 }
